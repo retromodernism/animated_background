@@ -1,8 +1,10 @@
 import "./widget.css";
 
 const colors = [
-  "#e1a1ff",
-  "#74d878",
+  // "#e1a1ff",
+  // "#74d878",
+  "#8b6a50",
+  "#c1d3f6",
   "#f4ffe2",
   "#deb5ff",
   "#c29d93",
@@ -31,7 +33,43 @@ const convertHexToRGBA = (hexCode, opacity) => {
 
 const Widget = () => (
   <div className="animation">
-    {/* <h1>Animation should be here!</h1> */}
+    <h1>Animation should be here!</h1>
+    <div className="text-block">
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+    </div>
+    <div className="text-block">
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+    </div>
+    <div className="text-block">
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque soluta, aliquid in laudantium distinctio id aspernatur quaerat mollitia consequatur expedita ipsam totam animi, eius autem sit, non accusamus quia nostrum.
+    </div>
     <div className="animated-background">
       {colors.map((color) => (
         <div className="block" style={{ backgroundColor: color }}>
@@ -83,3 +121,5 @@ const Widget = () => (
 );
 
 export default Widget;
+
+// test change
